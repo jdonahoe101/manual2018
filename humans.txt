@@ -1,9 +1,9 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible &Employers One Source Group
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <jDonahoe> -- <Web Developer>
 
 # THANKS
 
